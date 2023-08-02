@@ -1,0 +1,27 @@
+# Flask app
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+*.env
+
+# Development
+.vscode/
+.idea/
+
+# Editor-specific
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodoide
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Exclude instance folder and its contents
+instance/
