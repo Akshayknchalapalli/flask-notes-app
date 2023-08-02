@@ -4,6 +4,14 @@ This is a simple web application built with Flask that allows users to create an
 
 **⚠️ WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead. ⚠️**
 
+## Prerequisites
+
+Before setting up the Flask Notes App, ensure you have the following prerequisites installed and configured:
+
+1. **Python**: The application is built using Python and Flask. Make sure you have Python installed on your system. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
+
+2. **Git** (optional): If you want to clone the repository using the `git clone` command, you'll need Git installed on your system. You can download Git from the [official website](https://git-scm.com/downloads).
+
 ## Features
 
 - Users can create, view, and delete their notes.
