@@ -20,9 +20,9 @@ Before setting up the Flask Notes App, ensure you have the following prerequisit
 ## Setup
 
 1. Clone the repository by running the following command in your terminal or command prompt:
-   ```bash
-   git clone https://github.com/your-username/flask-notes-app.git
-Replace `your-username` with your GitHub username and `flask-notes-app` with the name of your repository.
+
+        git clone https://github.com/Akshayknchalapalli/flask-notes-app.git
+   
 2. Create a virtual environment to isolate project dependencies (optional but recommended).
    - On Windows:
      ```
